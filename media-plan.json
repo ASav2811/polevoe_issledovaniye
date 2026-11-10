@@ -1,0 +1,335 @@
+{
+  "source_folder": "https://drive.google.com/drive/folders/1iVB7xnQQjrUaJh1YaPTiGxXR8N4qe9jA",
+  "rooms": {
+    "Археология": {
+      "images": [],
+      "videos": [
+        {
+          "file": "20261110_112626.mp4",
+          "target": "assets/videos/20261110_112626.mp4",
+          "caption": "Обзор археологической экспозиции",
+          "duration_s": 7.5,
+          "size_mb_original": 22.35,
+          "status": "needs_optimization_and_privacy_review"
+        }
+      ],
+      "needs_confirmation": false
+    },
+    "Изба": {
+      "images": [],
+      "videos": [
+        {
+          "file": "20261110_113241.mp4",
+          "target": "assets/videos/20261110_113241.mp4",
+          "caption": "Панорама традиционного интерьера",
+          "duration_s": 10.4,
+          "size_mb_original": 31.14,
+          "status": "needs_optimization_and_privacy_review"
+        }
+      ],
+      "needs_confirmation": false
+    },
+    "Усадьбы": {
+      "images": [
+        {
+          "original": "20261110_113633.jpg",
+          "file": "assets/images/20261110_113633.webp",
+          "room": "Усадьбы",
+          "caption": "Конструктор дорического и ионического архитектурных ордеров",
+          "bytes": 152262
+        },
+        {
+          "original": "20261110_113639.jpg",
+          "file": "assets/images/20261110_113639.webp",
+          "room": "Усадьбы",
+          "caption": "Макет садово-парковой композиции с деталями",
+          "bytes": 172432
+        }
+      ],
+      "videos": [],
+      "needs_confirmation": false
+    },
+    "Салтыковка": {
+      "images": [
+        {
+          "original": "20261110_113857.jpg",
+          "file": "assets/images/20261110_113857.webp",
+          "room": "Салтыковка",
+          "caption": "Экспозиция «Салтыковка» (уточнено автором)",
+          "bytes": 338644
+        }
+      ],
+      "videos": [],
+      "needs_confirmation": false
+    },
+    "Фабрика": {
+      "images": [
+        {
+          "original": "20261110_113835.jpg",
+          "file": "assets/images/20261110_113835.webp",
+          "room": "Фабрика",
+          "caption": "Историческая фотография: подвоз котла к хлопкопрядильной фабрике, 1902 год",
+          "bytes": 107554
+        },
+        {
+          "original": "20261110_113911.jpg",
+          "file": "assets/images/20261110_113911.webp",
+          "room": "Фабрика",
+          "caption": "Историческое оборудование/производственная экспозиция",
+          "bytes": 310820
+        }
+      ],
+      "videos": [],
+      "needs_confirmation": false
+    },
+    "Школа": {
+      "images": [
+        {
+          "original": "20261110_114848.jpg",
+          "file": "assets/images/20261110_114848.webp",
+          "room": "Школа",
+          "caption": "Общий вид экспозиции об истории школьного образования",
+          "bytes": 236028
+        },
+        {
+          "original": "20261110_114951.jpg",
+          "file": "assets/images/20261110_114951.webp",
+          "room": "Школа",
+          "caption": "Букварь и материалы об истории школы",
+          "bytes": 310338
+        },
+        {
+          "original": "20261110_115005.jpg",
+          "file": "assets/images/20261110_115005.webp",
+          "room": "Школа",
+          "caption": "Групповые исторические школьные фотографии",
+          "bytes": 346684
+        },
+        {
+          "original": "20261110_115029.jpg",
+          "file": "assets/images/20261110_115029.webp",
+          "room": "Школа",
+          "caption": "Сигнальный горн, барабан и предметы пионерского времени",
+          "bytes": 227874
+        }
+      ],
+      "videos": [
+        {
+          "file": "20261110_114840.mp4",
+          "target": "assets/videos/20261110_114840.mp4",
+          "caption": "Короткий обзор школьной экспозиции",
+          "duration_s": 2.5,
+          "size_mb_original": 7.53,
+          "status": "needs_optimization_and_privacy_review"
+        }
+      ],
+      "needs_confirmation": false
+    },
+    "Военный период": {
+      "images": [
+        {
+          "original": "20261110_114500.jpg",
+          "file": "assets/images/20261110_114500.webp",
+          "room": "Военный период",
+          "caption": "Световая композиция с портретами участников Великой Отечественной войны",
+          "bytes": 336730
+        },
+        {
+          "original": "20261110_114513.jpg",
+          "file": "assets/images/20261110_114513.webp",
+          "room": "Военный период",
+          "caption": "Стенд о госпиталях Балашихи и медицинская сумка",
+          "bytes": 256538
+        },
+        {
+          "original": "20261110_114523.jpg",
+          "file": "assets/images/20261110_114523.webp",
+          "room": "Военный период",
+          "caption": "Военная форма и предметы солдатского снаряжения",
+          "bytes": 309324
+        },
+        {
+          "original": "20261110_115106.jpg",
+          "file": "assets/images/20261110_115106.webp",
+          "caption": "Экспозиция о «Катюше»"
+        }
+      ],
+      "videos": [
+        {
+          "file": "20261110_113938.mp4",
+          "target": "assets/videos/20261110_113938.mp4",
+          "caption": "Обзор военной экспозиции",
+          "duration_s": 20.7,
+          "size_mb_original": 61.91,
+          "status": "needs_optimization_and_privacy_review"
+        }
+      ],
+      "needs_confirmation": false
+    },
+    "Советский период": {
+      "images": [
+        {
+          "original": "20261110_114453.jpg",
+          "file": "assets/images/20261110_114453.webp",
+          "room": "Советский период",
+          "caption": "Мебель, бытовые предметы и интерьерная экспозиция",
+          "bytes": 282510
+        },
+        {
+          "original": "20261110_114858.jpg",
+          "file": "assets/images/20261110_114858.webp",
+          "room": "Советский период",
+          "caption": "Интерьер советской повседневности: одежда и бытовые предметы",
+          "bytes": 313408
+        },
+        {
+          "original": "20261110_114921.jpg",
+          "file": "assets/images/20261110_114921.webp",
+          "room": "Советский период",
+          "caption": "Архивные фотографии парка и городской среды Балашихи",
+          "bytes": 361394
+        }
+      ],
+      "videos": [],
+      "needs_confirmation": false
+    },
+    "Зал природы": {
+      "images": [
+        {
+          "original": "20261110_114615.jpg",
+          "file": "assets/images/20261110_114615.webp",
+          "room": "Зал природы",
+          "caption": "Витрина с насекомыми и природными материалами",
+          "bytes": 276908
+        },
+        {
+          "original": "20261110_114627.jpg",
+          "file": "assets/images/20261110_114627.webp",
+          "room": "Зал природы",
+          "caption": "Диорама с животными леса",
+          "bytes": 323312
+        },
+        {
+          "original": "20261110_114645.jpg",
+          "file": "assets/images/20261110_114645.webp",
+          "room": "Зал природы",
+          "caption": "Панорама природной экспозиции с животными",
+          "bytes": 462248
+        }
+      ],
+      "videos": [
+        {
+          "file": "20261110_114542.mp4",
+          "target": "assets/videos/20261110_114542.mp4",
+          "caption": "Панорама зала природы",
+          "duration_s": 22.5,
+          "size_mb_original": 67.72,
+          "status": "needs_optimization_and_privacy_review"
+        },
+        {
+          "file": "20261110_114703.mp4",
+          "target": "assets/videos/20261110_114703.mp4",
+          "caption": "Интерактив «дупло»: инструкция и определение предметов на ощупь",
+          "duration_s": 40.2,
+          "size_mb_original": 120.5,
+          "status": "needs_optimization_and_privacy_review"
+        }
+      ],
+      "needs_confirmation": false
+    }
+  },
+  "supplementary": {
+    "Введение": {
+      "images": [
+        {
+          "original": "20261110_121831.jpg",
+          "file": "assets/images/20261110_121831.webp",
+          "room": "Введение",
+          "caption": "Фасад и вход в музей",
+          "bytes": 371702
+        }
+      ],
+      "videos": [
+        {
+          "file": "20261110_121845.mp4",
+          "target": "assets/videos/20261110_121845.mp4",
+          "caption": "Видео фасада музея",
+          "duration_s": 3.9,
+          "status": "needs_optimization_and_privacy_review"
+        }
+      ]
+    },
+    "Олимпиада и квесты": {
+      "images": [
+        {
+          "original": "20261110_121217.jpg",
+          "file": "assets/images/20261110_121217.webp",
+          "room": "Олимпиада и квесты",
+          "caption": "Лист задания олимпиады",
+          "bytes": 142032
+        },
+        {
+          "original": "20261110_121417.jpg",
+          "file": "assets/images/20261110_121417.webp",
+          "room": "Олимпиада и квесты",
+          "caption": "Лист олимпиадных заданий, включая вопрос об экспонате с замками",
+          "bytes": 223206
+        },
+        {
+          "original": "20261110_121454.jpg",
+          "file": "assets/images/20261110_121454.webp",
+          "room": "Олимпиада и квесты",
+          "caption": "Олимпиадные задания с иллюстрациями",
+          "bytes": 214960
+        },
+        {
+          "original": "20261110_151254.jpg",
+          "file": "assets/images/20261110_151254.webp",
+          "room": "Олимпиада и квесты",
+          "caption": "Обложка чайнворда «Музейная бродилка»",
+          "bytes": 103960
+        },
+        {
+          "original": "20261110_151308.jpg",
+          "file": "assets/images/20261110_151308.webp",
+          "room": "Олимпиада и квесты",
+          "caption": "Разворот «Музейной бродилки»: поле и задания",
+          "bytes": 178460
+        },
+        {
+          "original": "20261110_151319.jpg",
+          "file": "assets/images/20261110_151319.webp",
+          "room": "Олимпиада и квесты",
+          "caption": "Обложка «Путешествие по залу природы»",
+          "bytes": 107002
+        }
+      ],
+      "videos": []
+    },
+    "Схемы музея": {
+      "images": [
+        {
+          "original": "20261110_151412.jpg",
+          "file": "assets/images/20261110_151412.webp",
+          "room": "Схемы музея",
+          "caption": "Оригинальная схема музея из материалов квеста",
+          "bytes": 190448
+        }
+      ],
+      "videos": []
+    },
+    "Цифровой интерактив": {
+      "images": [],
+      "videos": [
+        {
+          "file": "20261110_113512.mp4",
+          "target": "assets/videos/20261110_113512.mp4",
+          "caption": "Демонстрация сенсорной музейной панели",
+          "duration_s": 43.0,
+          "status": "needs_optimization_and_privacy_review"
+        }
+      ]
+    }
+  },
+  "notes": "Автор подтвердила: 20261110_113857.jpg относится к «Салтыковке». Видеоматериалы включаются на сайт без дополнительной проверки звука/людей по прямой просьбе автора."
+}
